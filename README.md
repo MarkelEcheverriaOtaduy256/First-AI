@@ -1,5 +1,5 @@
 # First-AI
-Code of a BASIC AI that transforms Celsious into fhrenheit
+Code of a BASIC AI that transforms Celsious into fhrenheit 
 "Una IA con una unica red neurinal muy básica, la misión sera convertir grados celsious en fahrenheit "
 
 #Importamos desde el servidor diferentes redes neuronales
